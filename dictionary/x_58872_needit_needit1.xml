@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit1" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="2" label="Field try" max_length="40" name="u_string_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="choice 1 SD"/>
+                <element inactive="true" inactive_on_update="true" label="choice 1 SD" sequence="0"/>
+            </choice>
+        </element>
+    </element>
+</database>
